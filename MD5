@@ -1,0 +1,7 @@
+77739fbeca9f453d03372e8325d650ce *DESCRIPTION
+b9cb898a5a2bae4ec77d69cdebc18863 *NAMESPACE
+3189e8c55b14321ba2777f6dafb047e3 *R/abbreviate_text.R
+55f39d550d0c50fa6163b772eb8d87ee *README.md
+b02928a4fcfee77fb5f109491e6316fb *man/abbreviate_text.Rd
+69e5f5032375d551b460e18cdeb89a56 *tests/testthat.R
+0636d09a1f0e831b444e3fcd5c8aa35a *tests/testthat/test-abbreviate.R
